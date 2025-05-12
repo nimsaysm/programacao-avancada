@@ -8,3 +8,6 @@ Simple exercise containing "Hello, World".
 # 📖 Textbook Units
 *[Unit 02](./Unit02/src/Unit02.java):*
 Exercises using types, variables and control, repetition and selection structures.
+
+*[Unit 03](./Unit03/src/Unit03.java):*
+Exercises using Java Class and objects.
