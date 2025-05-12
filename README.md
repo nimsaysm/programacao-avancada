@@ -4,3 +4,7 @@ This repository contains practical exercises for the Advanced Programming, part 
 # 💻 Live Classes
 *[Class 01](./Class01/src/Class01.java):*
 Simple exercise containing "Hello, World".
+
+# 📖 Textbook Units
+*[Unit 02](./Unit02/src/Unit02.java):*
+Exercises using types, variables and control, repetition and selection structures.
