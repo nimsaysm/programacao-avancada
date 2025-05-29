@@ -8,6 +8,9 @@ Simple exercise containing "Hello, World".
 *[Class 02](./Class02/src/Class02.java):*
 Simple exercises containing loops.
 
+*[Class 03](./Class03/src/Class03.java):*
+Simple exercises containing Class, JavaBeans and Construtor Method.
+
 # 📖 Textbook Units
 *[Unit 02](./Unit02/src/Unit02.java):*
 Exercises using types, variables and control, repetition and selection structures.
